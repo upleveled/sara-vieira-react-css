@@ -4,10 +4,10 @@ CSS properties and selectors, layouts, variables and ways to use them in React (
 
 ## Sandboxes
 
-- No styles: https://codesandbox.io/s/upleveled-start-version-with-no-styles-xdrlry
-- Global CSS: https://codesandbox.io/s/upleveled-starter-css-hcqpj6
-- CSS Modules, SASS, CSS variables: https://codesandbox.io/s/upleveled-css-modules-sass-and-variables-37fzdv
-- Emotion: https://codesandbox.io/s/upleveled-css-in-js-sjntkr?file=/src/App.js
+- No styles: https://codesandbox.io/p/sandbox/upleveled-start-version-with-no-styles-ckwx4z
+- Global CSS: https://codesandbox.io/p/sandbox/upleveled-starter-global-css-nvf9c8?file=%2Fsrc%2FApp.js
+- CSS Modules, SASS, CSS variables: https://codesandbox.io/p/sandbox/upleveled-css-modules-scss-css-variables-q6mq83?file=%2Fsrc%2FApp.js
+- Emotion: https://codesandbox.io/p/sandbox/upleveled-css-in-js-xkn9mv?file=%2Fsrc%2FApp.js
 - Bonus: Global styles and theming: https://codesandbox.io/s/upleveled-css-in-js-with-theming-prl93h?file=/src/theme.js
 
 ## Resources
