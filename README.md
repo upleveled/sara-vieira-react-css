@@ -34,4 +34,4 @@ Technologies used:
 
 Further Reading:
 
-- What's New in CSS? https://developer.chrome.com/blog/whats-new-css-ui-2023
+- What's New in CSS? (with "Scoped CSS") https://developer.chrome.com/blog/whats-new-css-ui-2023
