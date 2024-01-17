@@ -8,7 +8,7 @@ CSS properties and selectors, layouts, variables and ways to use them in React (
 - Global CSS: https://codesandbox.io/p/sandbox/upleveled-starter-global-css-nvf9c8?file=%2Fsrc%2FApp.js
 - CSS Modules, SASS, CSS variables: https://codesandbox.io/p/sandbox/upleveled-css-modules-scss-css-variables-q6mq83?file=%2Fsrc%2FApp.js
 - Emotion: https://codesandbox.io/p/sandbox/upleveled-css-in-js-xkn9mv?file=%2Fsrc%2FApp.js
-- Tailwind CSS: &lt;add sandbox here>
+- Tailwind CSS: https://codesandbox.io/p/devbox/hrzvlj?file=%2Fsrc%2FApp.js%3A23%2C47
 - Bonus: Global styles and theming: https://codesandbox.io/s/upleveled-css-in-js-with-theming-prl93h?file=/src/theme.js
 
 ## Resources
@@ -31,3 +31,7 @@ Technologies used:
 - Emotion Global Styles: https://emotion.sh/docs/globals
 - Emotion Theming: https://emotion.sh/docs/theming
 - Tailwind CSS: https://tailwindcss.com/
+
+Further Reading:
+
+- What's New in CSS? https://developer.chrome.com/blog/whats-new-css-ui-2023
